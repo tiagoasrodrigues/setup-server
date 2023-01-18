@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/tiagoasrodrigues/setup-server#readme",
   "dependencies": {
+    "@fastify/cors": "^8.2.0",
     "@prisma/client": "^4.9.0",
     "fastify": "^4.11.0"
   },
